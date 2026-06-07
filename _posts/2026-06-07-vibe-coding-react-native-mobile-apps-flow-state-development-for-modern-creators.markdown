@@ -4,6 +4,7 @@ title: "Vibe Coding React Native Mobile Apps: Flow State Development for Modern 
 date: 2026-06-07 17:54:09 +0530
 categories: react-native mobile-development vibe-coding
 ---
+{% raw %}
 
 ## Introduction
 
@@ -46,3 +47,4 @@ Avoid over-engineering; embrace minimalism. Test on physical devices to capture 
 ## Conclusion
 
 Vibe coding transforms React Native development from chore to craft. Dive in, trust your instincts, and ship apps that truly connect.
+{% endraw %}
